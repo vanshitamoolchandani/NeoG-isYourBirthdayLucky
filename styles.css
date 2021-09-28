@@ -6,6 +6,11 @@
 }
 
 body {
+    background-image: url("images/bday.png");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
     margin: auto;
     align-items: center;
 }
