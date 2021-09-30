@@ -24,7 +24,7 @@ function checkBirthdayIsLucky(){
 function compareValues(sum, lno){
 
     
-        if(sum/lno === 0){
+        if(sum%lno === 0){
             showMessage("YOUR BIRTHDAY IS LUCKY");
 
         }
